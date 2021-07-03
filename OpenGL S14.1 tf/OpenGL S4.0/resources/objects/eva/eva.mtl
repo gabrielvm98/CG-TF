@@ -1,0 +1,14 @@
+# Blender MTL File: 'ModelRenderLighting.blend'
+# Material Count: 1
+
+newmtl 21_body_1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.447793 0.512980 0.722091
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd eva/body_d.tga
+map_d body_d.tga
